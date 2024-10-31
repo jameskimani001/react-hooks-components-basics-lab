@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color: #282c34;
+    padding: 20px;
+    color: rgb(233, 20, 20);
+    text-align: center;
+  }
+  
+  nav h6 {
+    display: inline;
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline;
+  }
+  
+  nav h6 {
+    display: inline;
+    margin: 0 15px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  nav h6:hover {
+    text-decoration: underline;
+  }
+  
+  h {
+    color: #282c34;
+  }
+  
+  div {
+    padding: 20px;
+  }
+  .welcome{
+    text-align: center;
+    font-weight: 600;
+    padding-top: 90px;
+  }
+  .about{
+    text-align: center;
+    font-weight: 600;
+    padding-bottom: 0px; 
+  }
